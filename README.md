@@ -1,1 +1,1 @@
-# SpectCode
+# SpectaCode
